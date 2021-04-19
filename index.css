@@ -126,6 +126,10 @@ header h5 {
     h5 {
         font-size: 1.2em;
     }
+
+    .justifyCenter {
+        display: block !important;
+    }
 }
 .title {
     text-transform: capitalize;
