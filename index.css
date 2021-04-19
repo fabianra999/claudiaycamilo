@@ -131,3 +131,10 @@ header h5 {
     text-transform: capitalize;
     font-family: 'Great Vibes', cursive;
 }
+
+.justifyCenter {
+    display: flex;
+    flew-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
