@@ -75,11 +75,18 @@ header h1 {
     letter-spacing: 6px;
 }
 
-header h4,
+header h4 {
+    color: #fff;
+    font-weight: 300;
+    font-size: 4em;
+}
 header h5 {
     color: #fff;
     font-weight: 300;
+    font-size: 1.64rem;
 }
+
+
 
 /* Details */
 
@@ -122,9 +129,8 @@ header h5 {
         font-size: 2em;
     }
 
-    h4,
-    h5 {
-        font-size: 1.2em;
+    h4{
+        font-size: 3.2em;
     }
 
     .justifyCenter {
